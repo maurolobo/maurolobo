@@ -6,8 +6,9 @@
 
 Campinas, SP · TypeScript / Next.js / Postgres / Supabase / IA aplicada
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-cesar-108754140/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurolobo/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519994149901)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%231b4dff.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://maurolobo.vercel.app)
 
 </div>
 
@@ -44,6 +45,6 @@ Campinas, SP · TypeScript / Next.js / Postgres / Supabase / IA aplicada
 <div align="center">
 
 A maior parte do que construo vive em repositório privado de produto.
-Quer ver o detalhe técnico? Chama no [LinkedIn](https://www.linkedin.com/in/mauro-cesar-108754140/).
+Quer ver o detalhe técnico? Chama no [LinkedIn](https://www.linkedin.com/in/maurolobo/).
 
 </div>
