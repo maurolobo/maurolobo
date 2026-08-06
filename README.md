@@ -4,8 +4,10 @@
 
 **Engenheiro de desenvolvimento na Aureatech** — construo produtos de IA aplicada a vendas, dados e automação.
 
+Campinas, SP · TypeScript / Next.js / Postgres / Supabase / IA aplicada
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-cesar-108754140/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://portfolio-mauro.vercel.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519994149901)
 
 </div>
 
@@ -13,25 +15,35 @@
 
 ### O que eu construo
 
-- **CRM e inteligência comercial** — pipeline, qualificação e análise de performance de vendas
-- **Plataformas de dados** — ingestão multi-fonte, camada semântica e insights automatizados
-- **Agentes autônomos** — IA que executa trabalho de verdade, não só responde pergunta
+- **CRM e inteligência comercial** — pipeline, qualificação de lead e análise de performance de vendas em produção, usado todo dia por time comercial.
+- **Plataformas de dados** — ingestão multi-fonte, camada semântica sobre Postgres e insights gerados por agentes que debatem entre si antes de publicar.
+- **Agentes autônomos** — IA que executa trabalho de verdade: roda migration com ensaio em staging, revisa PR, monitora produção e avisa quando quebra.
+
+### Como eu trabalho
+
+- **Ciclo curto e verificável** — cada mudança nasce em worktree isolado, sai por PR com preview e teste do comportamento que o usuário vê.
+- **Banco de produção não se toca na mão** — toda migration passa por esteira: ensaio em staging → prova numérica → advisors → produção.
+- **Automação como infraestrutura** — VPS própria orquestrando agentes de código, observabilidade e publicação de docs.
 
 ### Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,py,postgres,supabase,tailwind,vercel,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,py,postgres,supabase,tailwind,vercel,docker,git,linux" alt="TypeScript, Next.js, React, Node.js, Python, Postgres, Supabase, Tailwind, Vercel, Docker, Git, Linux" />
   </a>
 </p>
 
 <div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api?username=maurolobo&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maurolobo&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Estatísticas do GitHub de Mauro Lobo">
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=maurolobo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurolobo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens mais usadas por Mauro Lobo">
-</a>
+`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Postgres` · `Supabase` · `Tailwind` · `Vercel` · `Docker` · `Linux`
+
+</div>
+
+---
+
+<div align="center">
+
+A maior parte do que construo vive em repositório privado de produto.
+Quer ver o detalhe técnico? Chama no [LinkedIn](https://www.linkedin.com/in/mauro-cesar-108754140/).
 
 </div>
