@@ -1,50 +1,67 @@
 <div align="center">
 
-# Mauro Lobo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Mauro Lobo — engenheiro de sistemas de IA aplicada" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Engenheiro de desenvolvimento na Aureatech** — construo produtos de IA aplicada a vendas, dados e automação.
+<br>
 
-Campinas, SP · TypeScript / Next.js / Postgres / Supabase / IA aplicada
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurolobo/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519994149901)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%231b4dff.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://maurolobo.vercel.app)
-
-</div>
-
----
-
-### O que eu construo
-
-- **CRM e inteligência comercial** — pipeline, qualificação de lead e análise de performance de vendas em produção, usado todo dia por time comercial.
-- **Plataformas de dados** — ingestão multi-fonte, camada semântica sobre Postgres e insights gerados por agentes que debatem entre si antes de publicar.
-- **Agentes autônomos** — IA que executa trabalho de verdade: roda migration com ensaio em staging, revisa PR, monitora produção e avisa quando quebra.
-
-### Como eu trabalho
-
-- **Ciclo curto e verificável** — cada mudança nasce em worktree isolado, sai por PR com preview e teste do comportamento que o usuário vê.
-- **Banco de produção não se toca na mão** — toda migration passa por esteira: ensaio em staging → prova numérica → advisors → produção.
-- **Automação como infraestrutura** — VPS própria orquestrando agentes de código, observabilidade e publicação de docs.
-
-### Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,py,postgres,supabase,tailwind,vercel,docker,git,linux" alt="TypeScript, Next.js, React, Node.js, Python, Postgres, Supabase, Tailwind, Vercel, Docker, Git, Linux" />
-  </a>
-</p>
-
-<div align="center">
-
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Postgres` · `Supabase` · `Tailwind` · `Vercel` · `Docker` · `Linux`
+[![Portfólio](https://img.shields.io/badge/portf%C3%B3lio-maurolobo.vercel.app-1b4dff?style=flat-square)](https://maurolobo.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fmaurolobo-0a0a0f?style=flat-square)](https://www.linkedin.com/in/maurolobo/)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-conversar-0a0a0f?style=flat-square)](https://wa.me/5519994149901)
+[![Local](https://img.shields.io/badge/campinas-SP%20%C2%B7%20brasil-8a8a96?style=flat-square)](#)
 
 </div>
 
 ---
 
+## Me chamam quando a solução simples já falhou
+
+Todo problema chega com uma resposta default embutida — a que qualquer um
+aplicaria. Ela funciona, e cobra caro seis meses depois. Meu trabalho começa
+onde ela para: desmonto o problema, procuro o caminho que ninguém tinha
+considerado e entrego rodando em produção, com teste e prova numérica.
+
+---
+
+## O que eu construo
+
+| Frente | O que é | Onde vive |
+|---|---|---|
+| **CRM e inteligência comercial** | Pipeline, qualificação de lead e performance de vendas para uma operação inteira | Produção, usado todo dia por time comercial |
+| **Plataformas de dados** | Ingestão multi-fonte, camada semântica sobre Postgres e agentes que discordam entre si antes de publicar um insight | Produção, multi-fonte |
+| **Engenharia operada por agentes** | IA que abre PR, roda migration com ensaio e prova numérica, vigia produção e chama quando quebra | Infra própria, 24/7 |
+
+---
+
+## O que me diferencia
+
+| O caminho de sempre | O que eu faço no lugar |
+|---|---|
+| ~~Migration em produção é rodar e torcer~~ | Ensaio num banco espelho, prova numérica obrigatória e só então produção. Um backfill dado como inofensivo já foi barrado por essa esteira |
+| ~~IA em codebase grande é colar arquivo no prompt~~ | Grafo de conhecimento do código: "quem chama isso e o que quebra se eu mudar" custa ~1.5k tokens, não dezenas de leituras cegas |
+| ~~Um desenvolvedor, uma tarefa, uma fila~~ | Frota de agentes em ambientes isolados, cada um com branch, teste e um revisor adversarial contratado para derrubar o próprio trabalho |
+| ~~Feedback em áudio se perde no WhatsApp~~ | O áudio entra e sai como contexto acionável no mesmo minuto, com o item de ação já separado do desabafo |
+
+---
+
+## Stack
+
+| Camada | Ferramentas |
+|---|---|
+| **Produto** | TypeScript · Next.js · React · Tailwind |
+| **Dados** | PostgreSQL · Supabase · FDW · camada semântica |
+| **IA** | Claude · agentes autônomos · RAG · grafo de conhecimento |
+| **Infra** | Vercel · Docker · Linux · VPS própria · CI/CD |
+| **Qualidade** | Playwright · Vitest · esteira de migration com prova numérica |
+
+---
+
 <div align="center">
 
-A maior parte do que construo vive em repositório privado de produto.
-Quer ver o detalhe técnico? Chama no [LinkedIn](https://www.linkedin.com/in/maurolobo/).
+**A maior parte do que construo vive em repositório privado de produto.**
+O que dá para mostrar está no [portfólio](https://maurolobo.vercel.app) —
+o resto eu conto no [LinkedIn](https://www.linkedin.com/in/maurolobo/).
 
 </div>
