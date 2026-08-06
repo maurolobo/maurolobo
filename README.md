@@ -2,7 +2,7 @@
 
 # Mauro Lobo
 
-**Fundador na Aureatech** — construo produtos de IA aplicada a vendas, dados e automação.
+**Engenheiro de desenvolvimento na Aureatech** — construo produtos de IA aplicada a vendas, dados e automação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-cesar-108754140/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://portfolio-mauro.vercel.app/)
